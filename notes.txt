@@ -1,0 +1,5 @@
+1. setup basic server with health routes
+2. create database connection
+3. create user model with db connection
+4. in server.js import user model and sync in function called syncTables
+5. call syncTables in the listen method 
