@@ -3,3 +3,10 @@
 3. create user model with db connection
 4. in server.js import user model and sync in function called syncTables
 5. call syncTables in the listen method 
+
+
+1. routes.js create user router
+2. server.js add user router
+3. routes.js add post routes " /register"
+4. controllers.js register function- add to the db
+5. test with Tc
